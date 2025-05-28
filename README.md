@@ -47,5 +47,5 @@ FlexDash is a prototype productivity app designed to showcase Flutter’s capabi
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dhruvjivani/AppFlow_Studios_A_2.git
    cd flexdash
